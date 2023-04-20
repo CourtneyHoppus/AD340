@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="added_text">Added TextView</string>
+    <string name="toast_button">Toast Button, Cheers!</string>
+    <string name="reset_button">Reset</string>
+    <string name="increment_button">Increment</string>
+    <string name="decrement_button">Decrement</string>
+    <string name="count_text">Starting count is 0</string>
+    <string name="food_button">Feed Me!</string>
+    <string name="touch_button">Don\'t Touch Me!</string>
+    <string name="calm_shiba">calm shiba inu</string>
+
+</resources>
